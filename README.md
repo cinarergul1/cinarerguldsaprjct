@@ -87,3 +87,12 @@ This is a small dataset (15 days), so results are only suggestive and not final 
 
 ##  Author
 Student project for data analysis practice (Milestone 1)
+## 🤖 AI Usage Disclosure
+
+In this project, I used AI tools (ChatGPT) to help with:
+- Structuring the README file
+- Formatting the Jupyter Notebook cells
+- Debugging code issues
+- Understanding how to use GitHub and Google Colab
+
+All data generation, analysis, and interpretation were reviewed and adjusted by me.
